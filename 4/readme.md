@@ -1,0 +1,7 @@
+# Step building  docker
+
+- docker build -t soal4 .                       
+
+- docker run -p 8080:8080 -t soal4 -name 'soal4'
+
+
